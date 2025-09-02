@@ -1,1 +1,1 @@
-# DjangoReact Project 
+# Django React Connection 
